@@ -1,3 +1,4 @@
+
 <x-app-layout>
 
     <x-slot name="header">
@@ -5,6 +6,5 @@
           Bienvenido 
         </h2>
     </x-slot>
-
 
 </x-app-layout>
